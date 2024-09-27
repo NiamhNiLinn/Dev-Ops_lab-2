@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-print("This is another string")
+print("Welcome!")
 =======
 print("Welcome!")
 >>>>>>> new_greeting
